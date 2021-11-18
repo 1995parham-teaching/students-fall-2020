@@ -3,7 +3,7 @@ package store
 import (
 	"strconv"
 
-	"github.com/aut-ce/students.go/model"
+	"github.com/cng-by-example/students/model"
 	"gorm.io/gorm"
 )
 

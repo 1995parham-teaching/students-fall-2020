@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/aut-ce/students.go/handler"
-	"github.com/aut-ce/students.go/model"
-	"github.com/aut-ce/students.go/store"
+	"github.com/cng-by-example/students/handler"
+	"github.com/cng-by-example/students/model"
+	"github.com/cng-by-example/students/store"
 	"github.com/labstack/echo/v4"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
